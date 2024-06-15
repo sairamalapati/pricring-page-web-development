@@ -1,1 +1,1 @@
-# pricring-page-web-development
+# pricing-page-web-development
